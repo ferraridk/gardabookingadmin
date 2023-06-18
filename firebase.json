@@ -1,0 +1,21 @@
+{
+  "functions": [
+    {
+      "source": "functions",
+      "region": "europe-west3"
+    }
+  ],
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "ignore": [
+    "firebase-debug.log",
+    "firebase-debug.*.log",
+    "storage.rules"
+  ]
+}

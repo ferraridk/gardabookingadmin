@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "666971974381",
+    "project_id": "flutter-gardabooking",
+    "storage_bucket": "flutter-gardabooking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666971974381:android:a30b46b50b53eeeac1fae4",
+        "android_client_info": {
+          "package_name": "com.example.GardaBookingAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666971974381-vtipe9gltp13h23dua3jmumda5pun46d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfDNUtk8zZEqNBa5le7Hav98qmhCAMVC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666971974381-vtipe9gltp13h23dua3jmumda5pun46d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666971974381-j08djcju8lnceb39dldfbbapiiu6oe33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gardabookingadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666971974381:android:f7e0ba5a1bf5697cc1fae4",
+        "android_client_info": {
+          "package_name": "com.example.gardabookingadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666971974381-vtipe9gltp13h23dua3jmumda5pun46d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfDNUtk8zZEqNBa5le7Hav98qmhCAMVC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666971974381-vtipe9gltp13h23dua3jmumda5pun46d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666971974381-j08djcju8lnceb39dldfbbapiiu6oe33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gardabookingadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666971974381:android:0938cdf74dba189ac1fae4",
+        "android_client_info": {
+          "package_name": "henrikferrari.com.ecomrejsegarda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666971974381-vtipe9gltp13h23dua3jmumda5pun46d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfDNUtk8zZEqNBa5le7Hav98qmhCAMVC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666971974381-vtipe9gltp13h23dua3jmumda5pun46d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666971974381-j08djcju8lnceb39dldfbbapiiu6oe33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gardabookingadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
