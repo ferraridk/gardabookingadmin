@@ -17,26 +17,27 @@ class ProductController extends GetxController {
   var newProduct = {}.obs;
 
   get price => newProduct['price'];
+
   get isRecomended => newProduct['isRecomended'];
+
   get isPopular => newProduct['isPopular'];
+
   get isApartment => newProduct['isApartment'];
+
   get isCamping => newProduct['isCamping'];
+
   get isSummerhouse => newProduct['isSummerhouse'];
 
-  void updateProductPrice(
-      int index,
+  void updateProductPrice(int index,
       Product product,
-      double value,
-      ) {
-   product.price = value;
-   products[index] = product;
+      double value,) {
+    product.price = value;
+    products[index] = product;
   }
 
-  void saveNewProductPrice(
-      Product product,
+  void saveNewProductPrice(Product product,
       String field,
-      double value,
-      ) {
+      double value,) {
     database.updateField(product, field, value);
   }
 }

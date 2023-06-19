@@ -25,7 +25,7 @@ class DatabaseService {
       ) {
     return _firebaseFirestore
         .collection('products')
-        .where('id', isEqualTo: product.id)
+        .where('name', isEqualTo: product.name)
         .get()
         .then((querySnapshot) => querySnapshot.docs.first.reference.update({field: newValue})
     );
